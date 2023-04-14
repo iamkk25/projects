@@ -6,7 +6,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../img/cr75.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./img/cr75.jpg);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -92,14 +92,14 @@ button{
 
 }
 .card1{
-    background-image: url(../img/real.webp);
+    background-image: url(./img/real.webp);
     position: relative;
    left: 100px;
    bottom: 12px;
 
 }
 .card2{
-    background-image: url(../img/-juventus.webp);
+    background-image: url(./img/-juventus.webp);
     position: relative;
     left: 200px;
     bottom: 12px;
@@ -107,13 +107,13 @@ button{
     
 }
 .card3{
-    background-image: url(../img/manchester-united.jpg);
+    background-image: url(./img/manchester-united.jpg);
     position: relative;
     left: 100px;
     top: 30px;
 }
 .card4{
-    background-image: url(../img/sport.jpg);
+    background-image: url(./img/sport.jpg);
     position: relative;
     left: 200px;
     top: 30px;
